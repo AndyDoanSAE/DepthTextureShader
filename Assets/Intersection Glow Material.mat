@@ -90,8 +90,8 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Cull: 2
     - _Cutoff: 0.5
-    - _DepthFactor: 1.53
-    - _DepthPow: 4
+    - _DepthFactor: 14.19
+    - _DepthPow: 3.87
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -100,8 +100,8 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _IntersectionPow: 1.26
-    - _IntersectionThreshold: 3.06
+    - _IntersectionPow: 2.03
+    - _IntersectionThreshold: 1.24
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
