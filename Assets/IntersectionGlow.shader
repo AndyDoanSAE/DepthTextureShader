@@ -18,6 +18,10 @@ Shader "CustomShader/IntersectionGlow"
 
         Pass
         {
+            // ZTest always
+            // ZWrite Off
+            Cull Front
+
             Tags { "LightMode" = "ForwardBase" }
 
             CGPROGRAM
